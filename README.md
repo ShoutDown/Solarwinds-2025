@@ -1,6 +1,6 @@
 # Solarwinds-2025
 
-<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Official_SolarWinds_Logo.svg" alt="MAS Logo"></p>
 
 Good day, dear friend.
 I managed to bypass trial protection on SolarWinds programs, in particular Observability
