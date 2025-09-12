@@ -13,13 +13,13 @@ If you need more detailed information, write to 2025solarwinds@gmail.com
 A couple of screenshots:
 After modification the day counter is set to maximum:
 
-<p align="center"><img src="https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr1.png ></p>
+<p align="center"><img src="https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr1.png"></p>
 
-<p align="center"><img src="https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr2.png></p>
+<p align="center"><img src="https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr2.png"></p>
 
 To check, we move the date forward and see that the software continues to work, counting down the days until 9999year
 
-<p align="center"><img src="https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr3.png></p>
+<p align="center"><img src="https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr3.png"></p>
 
-<p align="center"><img src="https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr3.png></p>
+<p align="center"><img src="https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr3.png"></p>
 
