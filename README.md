@@ -8,8 +8,10 @@ I pay tribute to the Solarwinds developers, they did not even bother to use an o
 If you need more detailed information, write to 2025solarwinds@gmail.com
 
 A couple of screenshots:
-https://postimg.cc/6yyCHxGh
-https://postimg.cc/Z9FN9T1J
-https://postimg.cc/wyqmLCpL
-https://postimg.cc/Yh5LbG7p
-https://postimg.cc/7Cwrg2HG
+After modification the day counter is set to maximum:
+https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr1.png
+https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr2.png
+To check, we move the date forward and see that the software continues to work, counting down the days until 9999year
+https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr3.png
+https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr3.png
+
