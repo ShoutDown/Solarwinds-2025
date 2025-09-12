@@ -21,5 +21,5 @@ To check, we move the date forward and see that the software continues to work, 
 
 <p align="center"><img src="https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr3.png"></p>
 
-<p align="center"><img src="https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr3.png"></p>
+<p align="center"><img src="https://github.com/ShoutDown/Solarwinds-2025/blob/main/scr4.png"></p>
 
