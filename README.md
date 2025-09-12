@@ -35,7 +35,23 @@ You can activate any product with my mod:
 <li>Observability Essentials Enterprise Scale Edition</li>
 </ul>
 
-If you need more detailed information, write to 2025solarwinds@gmail.com
+If you need more detailed information, <a href="https://t.me/solarwinds_HCO"
+   target="_blank"
+   rel="noopener noreferrer"
+   aria-label="Перейти в Telegram-канал solarwinds_HCO"
+   title="Telegram: solarwinds_HCO"
+   style="display:inline-flex;align-items:center;gap:8px;text-decoration:none;color:inherit;">
+  <!-- Telegram plane SVG (24x24) -->
+  <svg width="24" height="24" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+    <title>Telegram</title>
+    <circle cx="120" cy="120" r="120" fill="#0088cc"/>
+    <path d="M50 120l130-50c6  -2 12 3 9 10L153 187c-3 7-11 9-17 5L84 146 64 166c-4 3-10 2-12-3l-4-24c-2-8 4-15 12-14z"
+          fill="#fff" transform="translate(0,0)"/>
+  </svg>
+
+  <span>t.me/solarwinds_HCO</span>
+</a>
+
 
 A couple of screenshots:
 After modification the day counter is set to maximum:
